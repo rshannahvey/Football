@@ -1,0 +1,129 @@
+body{
+	background-color: #F1C1F1;
+}
+body{}
+#navbar{
+	background-color: yellow;
+	position: relative;
+	bottom: 10px;
+}
+#navbar ul{
+	list-style: none;
+	padding: 10px
+}
+#navbar li{
+	display: inline;
+	position: relative;
+	left: 900px;
+	padding-left: 50px;
+}
+.container{
+	margin: auto;
+}
+#header1{
+	padding: 0;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-family: comic sans ms;
+	font-size: 300%;
+	color: #D9074D;
+	background-image: url('images/football.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	bottom: 50px;
+	height: 700px;
+}
+h1{
+	position: relative;
+	top: 300px;
+}
+#header2{
+	color: #010101;
+	margin-left: 20px;
+	text-decoration: underline;
+	position: relative;
+	top: 10px;
+}
+#section1{
+	margin: auto;
+	padding: 20px;
+
+}
+aside{
+	float: right;
+	padding: 10px;
+	border: 2px black solid;
+}
+p{
+	font-family: bahnschrift;
+}
+#header3{
+	margin-left: 20px;
+	position: relative;
+	bottom: 10px;
+	text-decoration: underline;
+}
+#section2{
+	margin: auto;
+	padding: 20px;
+	position: relative;
+	bottom: 15px;
+}
+#header4{
+	margin-left: 20px;
+	position: relative;
+	bottom: 20px;
+	text-decoration: underline;
+}
+#section3{
+	margin: auto;
+	padding: 20px;
+	position: relative;
+	bottom: 20px;
+}
+.f1{
+	padding: 20px;
+	position: relative;
+	bottom: 30px;
+}
+.f1 p{
+	font-family: bahnschrift semibold;
+	font-size: 200%;
+}
+.f2{
+	position: relative;
+	bottom: 40px;
+}
+.f4{
+	padding: 15px;
+}
+.f2 li{
+	display: inline;
+	padding-right: 300px;
+	font-size: 150%;
+	text-decoration: underline;
+}
+.f3 li{
+	display: inline;
+	padding-right: 185px;
+	position: relative;
+	bottom: 15px;
+}
+.f4 li{
+	display: inline;
+	padding-right: 320px;
+	position: relative;
+	bottom: 10px;
+}
+a{
+	text-decoration: underline;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+
+
